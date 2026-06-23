@@ -1,6 +1,7 @@
 # 100Hires - Junior Growth Marketing Specialist | Dan
 ## What you collected and why you chose these experts
-- List of 10 influencer/business person related to B2B Saas along with their YT (for now, we could add more later like every social media links, etc.) along with the reasons
+- List of 10 influencer/business person related to B2B Saas along with their YT (for now, we could add more later like every social media links, etc.) along with the reasons (topic: YouTube content strategy for B2B SaaS)
+   - please refer to sources.md
 
 ## Output 
 ### Youtube transcript
