@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-06-23T20:10:10",
+  "video_count": 3,
+  "videos": [
+    {
+      "youtube_url": "https://www.youtube.com/watch?v=5iLNKj0qd_0",
+      "video_url": "https://www.youtube.com/watch?v=5iLNKj0qd_0",
+      "video_id": "5iLNKj0qd_0",
+      "title": "[RUNNINGMAN] He added the flavoring while people weren't looking. (ENGSUB)",
+      "channel_name": "",
+      "transcript_source": "captions"
+    },
+    {
+      "youtube_url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM",
+      "video_url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM",
+      "video_id": "g5ZwY2tVdcM",
+      "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+      "channel_name": "",
+      "transcript_source": "auto_captions"
+    },
+    {
+      "youtube_url": "https://www.youtube.com/watch?v=qZJS1yOaw_U",
+      "video_url": "https://www.youtube.com/watch?v=qZJS1yOaw_U",
+      "video_id": "qZJS1yOaw_U",
+      "title": "28 Brutal Truths I wish someone told me in my 20s",
+      "channel_name": "",
+      "transcript_source": "auto_captions"
+    }
+  ],
+  "pillars": [
+    {
+      "pillar": "000",
+      "aggregate_mentions": 141,
+      "supporting_videos": [
+        {
+          "video_id": "g5ZwY2tVdcM",
+          "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+          "url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM"
+        },
+        {
+          "video_id": "qZJS1yOaw_U",
+          "title": "28 Brutal Truths I wish someone told me in my 20s",
+          "url": "https://www.youtube.com/watch?v=qZJS1yOaw_U"
+        }
+      ]
+    },
+    {
+      "pillar": "840",
+      "aggregate_mentions": 132,
+      "supporting_videos": [
+        {
+          "video_id": "g5ZwY2tVdcM",
+          "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+          "url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM"
+        },
+        {
+          "video_id": "qZJS1yOaw_U",
+          "title": "28 Brutal Truths I wish someone told me in my 20s",
+          "url": "https://www.youtube.com/watch?v=qZJS1yOaw_U"
+        }
+      ]
+    },
+    {
+      "pillar": "360",
+      "aggregate_mentions": 128,
+      "supporting_videos": [
+        {
+          "video_id": "g5ZwY2tVdcM",
+          "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+          "url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM"
+        },
+        {
+          "video_id": "qZJS1yOaw_U",
+          "title": "28 Brutal Truths I wish someone told me in my 20s",
+          "url": "https://www.youtube.com/watch?v=qZJS1yOaw_U"
+        }
+      ]
+    },
+    {
+      "pillar": "080",
+      "aggregate_mentions": 125,
+      "supporting_videos": [
+        {
+          "video_id": "g5ZwY2tVdcM",
+          "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+          "url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM"
+        },
+        {
+          "video_id": "qZJS1yOaw_U",
+          "title": "28 Brutal Truths I wish someone told me in my 20s",
+          "url": "https://www.youtube.com/watch?v=qZJS1yOaw_U"
+        }
+      ]
+    },
+    {
+      "pillar": "680",
+      "aggregate_mentions": 121,
+      "supporting_videos": [
+        {
+          "video_id": "g5ZwY2tVdcM",
+          "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+          "url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM"
+        },
+        {
+          "video_id": "qZJS1yOaw_U",
+          "title": "28 Brutal Truths I wish someone told me in my 20s",
+          "url": "https://www.youtube.com/watch?v=qZJS1yOaw_U"
+        }
+      ]
+    },
+    {
+      "pillar": "money",
+      "aggregate_mentions": 105,
+      "supporting_videos": [
+        {
+          "video_id": "qZJS1yOaw_U",
+          "title": "28 Brutal Truths I wish someone told me in my 20s",
+          "url": "https://www.youtube.com/watch?v=qZJS1yOaw_U"
+        }
+      ]
+    },
+    {
+      "pillar": "400",
+      "aggregate_mentions": 67,
+      "supporting_videos": [
+        {
+          "video_id": "g5ZwY2tVdcM",
+          "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+          "url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM"
+        }
+      ]
+    },
+    {
+      "pillar": "760",
+      "aggregate_mentions": 66,
+      "supporting_videos": [
+        {
+          "video_id": "g5ZwY2tVdcM",
+          "title": "GEO and AEO Won't Save You: The Truth About Distribution in B2B SaaS",
+          "url": "https://www.youtube.com/watch?v=g5ZwY2tVdcM"
+        }
+      ]
+    }
+  ]
+}
