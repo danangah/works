@@ -1,16 +1,16 @@
 # 100Hires - Junior Growth Marketing Specialist | Dan
-## What tools you installed
-- [Cursor IDE](https://cursor.com/)
-- [Visual Studio Code](https://code.visualstudio.com/) (already familiar with extensions like Codex or Claude Code in VSCode)
+## What you collected and why you chose these experts
+- List of 10 influencer/business person related to B2B Saas along with their YT (for now, we could add more later like every social media links, etc.) along with the reasons
 
-## What steps you completed
-- Installing Cursor IDE for Windows
-- Creating a public GitHub repository
-- Creating README.md
+## Output 
+### Youtube transcript
+- Providing example of 2 related videos which doesn't contain caption and 1 non-related video which contains caption (for testing purposes)
+   - Output is formatted in JSON format with some useful parameters, eg. Youtube video links, Video Title, etc.
+### LinkedIn post
+- Providing example of 2 LinkedIn posts
+   - Output is formatter in JSON format also with useful parameters, eg. username, etc.
 
-## What issues you ran into and how you solved them
-- Phone verification for signing up in Cursor
-![Cursor phone verification issue](ss.png)
 ```
-Currently, I am not able to fix the issue, asked some software engineer friends and they're encountering same issue for Indonesia region. Will try to research more how to fix the issue for Indonesia users.
+Thanks,
+Dan
 ```
