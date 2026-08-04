@@ -1,15 +1,19 @@
 # 100Hires - Junior Growth Marketing Specialist | Dan
-## What you collected and why you chose these experts
-- List of 10 influencer/business person related to B2B Saas along with their YT (for now, we could add more later like every social media links, etc.) along with the reasons (topic: YouTube content strategy for B2B SaaS)
-   - please refer to [sources.md](https://github.com/danangah/works/blob/7ac0d2811a90480ef99578561d231e330ec8e677/research/sources.md)
+## Topics
+- List of 10 influencer/business person related to B2B Saas
 
-## Output 
-### Youtube transcript
-- Providing example of 2 related videos which doesn't contain caption and 1 non-related video which contains caption (for testing purposes)
-   - Output is formatted in JSON format with some useful parameters, eg. Youtube video links, Video Title, etc.
-### LinkedIn post
-- Providing example of 2 LinkedIn posts
-   - Output is formatter in JSON format also with useful parameters, eg. username, etc.
+## List of Updates
+### PLAYBOOK_SOP.md
+- Guidelines or baseline for the execution process
+### REQUIREMENTS.md
+- Defines mandatory requirements and evaluation criteria
+### OUTPUT /outputs
+- Each run will be generated under different output folder, currently, I'm using a date range limit/filter to save cost, but for the production, we should expand the date range or increase the data that allowed to be scraped so we will get better data accuracy
+  - Each /output folder will consists of:
+    - PLAYBOOK_RESULT.md : Main output based on PLAYBOOK_SOP.md
+    - SOURCE_AUDIT.md : Cleaned source input
+    - SOURCE_REFRESH.md : Source input
+    - VALIDATION_REPORT.md : Judge or validator
 
 ```
 Thanks,
