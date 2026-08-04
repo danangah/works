@@ -3,7 +3,7 @@
 - List of 10 influencer/business person related to B2B Saas
 
 ## List of Updates
-### PLAYBOOK_SOP.md
+### [PLAYBOOK_SOP.md](research/PLAYBOOK_SOP.md)
 - Guidelines or baseline for the execution process
 ### REQUIREMENTS.md
 - Defines mandatory requirements and evaluation criteria
