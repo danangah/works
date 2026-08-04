@@ -2,6 +2,8 @@
 
 This file is the stable operating procedure. Do not append run-specific findings, source candidates, dates, or conclusions here. Each run writes its result under `outputs/YYYY-MM-DD/`.
 
+This SOP is governed by the standing requirements and evaluation baseline in [REQUIREMENTS.md](REQUIREMENTS.md). The requirements define the mandatory content and quality gates; this file defines the repeatable execution procedure.
+
 ## 1. Define the research question
 
 Record the audience, company stage, budget, channels, decision to support, and success metric before collecting sources. Keep the question narrow enough to test.
